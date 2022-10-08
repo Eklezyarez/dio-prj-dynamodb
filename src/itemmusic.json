@@ -1,6 +1,6 @@
 {
-  "Artist": {"S": "Iron Maiden"},
-  "SongTitle": {"S": "Chains of Misery"},
-  "AlbumTitle": {"S": "Fear of the Dark"},
-  "SongYear": {"S": "1992"}
+  "Artist": {"S": "System of a Down"},
+  "SongTitle": {"S": "BYOB"},
+  "AlbumTitle": {"S": "Mezmerize"},
+  "SongYear": {"S": "2005"}
 }
