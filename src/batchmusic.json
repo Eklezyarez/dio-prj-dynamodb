@@ -1,0 +1,64 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "System of a Down"},
+                  "SongTitle": {"S": "Chop Suey!"},
+                  "AlbumTitle": {"S": "Toxicity"},
+                  "SongYear": {"S": "2001"}
+                }
+            }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "System of a Down"},
+                "SongTitle": {"S": "Toxicity"},
+                "AlbumTitle": {"S": "Toxicity"},
+                "SongYear": {"S": "2001"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "System of a Down"},
+                "SongTitle": {"S": "X"},
+                "AlbumTitle": {"S": "Toxicity"},
+                "SongYear": {"S": "2001"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "System of a Down"},
+                "SongTitle": {"S": "Forest"},
+                "AlbumTitle": {"S": "Toxicity"},
+                "SongYear": {"S": "2001"}
+              }
+          }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "System of a Down"},
+                  "SongTitle": {"S": "Deer Dance"},
+                  "AlbumTitle": {"S": "Toxicity"},
+                  "SongYear": {"S": "2001"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "System of a Down"},
+                  "SongTitle": {"S": "Prison Song"},
+                  "AlbumTitle": {"S": "Toxicity"},
+                  "SongYear": {"S": "2001"}
+                }
+            }
+        }
+      ]
+}
